@@ -64,4 +64,4 @@ git push -u origin <your_branch_name>
 
 12. To create a pull request, click on compare and pull requests. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
 
-13. Voila 🎉 You have made a PR to the opentek project. Sit back patiently and relax while the project maintainers review your PR.
+13. Voila 🎉 You have made a PR. Sit back patiently and relax while the project maintainers review your PR.
