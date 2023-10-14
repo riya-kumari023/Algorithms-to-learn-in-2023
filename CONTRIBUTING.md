@@ -1,6 +1,3 @@
-# Algorithms-must-learn-in-2022
-Some algorithms that you should learn for better concept understanding and logic building.
-
 <h1>Contributing to Repo</h1>
 
 ## 🛠️ Installation Steps
